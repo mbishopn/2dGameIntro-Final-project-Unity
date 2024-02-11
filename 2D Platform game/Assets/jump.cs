@@ -20,6 +20,7 @@ public class moves : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Space))
         {
             birdBody.velocity = Vector2.up * 5;
+            Debug.Log("salto");
             //birdBody.AddForce(Vector2.up * 5, ForceMode2D.Impulse);
         }
 
