@@ -278,7 +278,7 @@ GameObject:
   m_Component:
   - component: {fileID: 141843989}
   m_Layer: 5
-  m_Name: GameObject
+  m_Name: Authors
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2486,6 +2486,9 @@ MonoBehaviour:
 
 
     Samuel Debruin
+
+
+    RITU
 
 '
   m_isRightToLeft: 0
