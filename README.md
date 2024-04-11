@@ -71,10 +71,12 @@ https://youtu.be/QxKcO0q7GR4?si=PyX9XF_86OtndcbI
 
 ### References for rest of the Ui/Coding part
 
-https://www.youtube.com/watch?v=0wKB_rxtqh4&list=PLSR2vNOypvs6eIxvTu-rYjw2Eyw57nZrU
-https://www.youtube.com/watch?v=N8whM1GjH4w 
-https://kenney.nl/assets/pixel-platformer-food-expansion 
 
-https://github.com/Brackeys/Health-Bar/tree/master/Health%20Bar/Assets/Sprites	
+- https://www.youtube.com/watch?v=0wKB_rxtqh4&list=PLSR2vNOypvs6eIxvTu-rYjw2Eyw57nZrU
+
+ - https://www.youtube.com/watch?v=N8whM1GjH4w 
+- https://kenney.nl/assets/pixel-platformer-food-expansion 
+
+- https://github.com/Brackeys/Health-Bar/tree/master/Health%20Bar/Assets/Sprites	
 
 
