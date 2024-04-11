@@ -50,3 +50,22 @@ https://www.youtube.com/watch?v=wagz-q1D4nA
 
 - **(Unity Tutorial - How to Make Moving Platform in Unity | Unity Tutorial for Beginners):**
 https://youtu.be/vua2a_Z3zlY?si=vsOQzbBtWyNbK0ZT https://youtu.be/vzZSjJOakDM?si=lnf2kaAoP5UCl0zk
+
+**assets for ai links:**
+- newest knight
+https://assetstore.unity.com/packages/2d/characters/knight-sprite-sheet-free-93897
+- wizard that shoots 
+https://assetstore.unity.com/packages/2d/characters/evil-wizard-168007
+- first ai(its useless)
+https://assetstore.unity.com/packages/2d/characters/medieval-king-pack-159599
+
+**AI videos**
+-for the newest ai 
+https://youtu.be/d002CljR-KU?si=_I_dqnOo8z-8sLop
+- for the shooting ai
+https://youtu.be/--u20SaCCow?si=R-yZo7mXWQ9G2vcL
+- for the first knight ai
+https://youtu.be/jvtFUfJ6CP8?si=VOIyCXi12vBz9OVY
+https://youtu.be/QxKcO0q7GR4?si=PyX9XF_86OtndcbI
+
+
