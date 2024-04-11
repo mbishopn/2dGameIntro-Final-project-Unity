@@ -69,7 +69,7 @@ https://youtu.be/jvtFUfJ6CP8?si=VOIyCXi12vBz9OVY
 https://youtu.be/QxKcO0q7GR4?si=PyX9XF_86OtndcbI
 
 
-### References for rest of the Ui/Coding part
+### References for rest of the Ui/Coding/Audio part
 
 
 - https://www.youtube.com/watch?v=0wKB_rxtqh4&list=PLSR2vNOypvs6eIxvTu-rYjw2Eyw57nZrU
@@ -79,4 +79,4 @@ https://youtu.be/QxKcO0q7GR4?si=PyX9XF_86OtndcbI
 
 - https://github.com/Brackeys/Health-Bar/tree/master/Health%20Bar/Assets/Sprites	
 
-
+- https://www.youtube.com/watch?v=8PkFDquoYVc
