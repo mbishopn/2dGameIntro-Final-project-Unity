@@ -65,11 +65,11 @@ https://youtu.be/vua2a_Z3zlY?si=vsOQzbBtWyNbK0ZT https://youtu.be/vzZSjJOakDM?si
 
 **AI videos**
 
-- for the newest ai 
+- **for the newest ai** 
 https://youtu.be/d002CljR-KU?si=_I_dqnOo8z-8sLop
-- for the shooting ai
+- **for the shooting ai**
 https://youtu.be/--u20SaCCow?si=R-yZo7mXWQ9G2vcL
-- for the first knight ai
+- **for the first knight ai**
 https://youtu.be/jvtFUfJ6CP8?si=VOIyCXi12vBz9OVY
 https://youtu.be/QxKcO0q7GR4?si=PyX9XF_86OtndcbI
 
@@ -77,7 +77,7 @@ https://youtu.be/QxKcO0q7GR4?si=PyX9XF_86OtndcbI
 **Ui/Coding/Audio**
 
 
-- Let's Make An Inventory System In Unity! (Series Intro)
+- **Let's Make An Inventory System In Unity! (Series Intro)**
 https://www.youtube.com/watch?v=0wKB_rxtqh4&list=PLSR2vNOypvs6eIxvTu-rYjw2Eyw57nZrU
-- How to Add MUSIC and SOUND EFFECTS to a Game in Unity | Unity 2D Platformer Tutorial #16
+- **How to Add MUSIC and SOUND EFFECTS to a Game in Unity | Unity 2D Platformer Tutorial #16**
 https://www.youtube.com/watch?v=N8whM1GjH4w 
