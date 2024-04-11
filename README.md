@@ -18,10 +18,10 @@ It ends when character completes all requried tasks.
 - use/interact with static items ( climb ladders, activate buttons, etc )
 - carry/use weapons (gun, knife)
 - interact with moving items (enemies?)
-
+***
 ## REFERENCES
 
-**BACKGROUND IMAGES :**
+### **BACKGROUND IMAGES :**
 
 - https://stock.adobe.com/ca/images/green-tropical-forest-during-monsoon-rainy-weather-and-lush-foliage-generative-ai/585493224?prev_url=detail
 - https://depositphotos.com/es/photos/cielo.html?qview=235348200
@@ -30,12 +30,24 @@ It ends when character completes all requried tasks.
 - https://w0.peakpx.com/wallpaper/998/463/HD-wallpaper-a-thick-hilly-forest-underneath-a-full-moon-and-deep-blue-sky-at-night-clouds-sky-night-blue-forest-twilight-trees-leaves-moon-green-full-moon-jungle-argent.jpg
 - https://img.freepik.com/free-vector/infernal-dark-cave-with-lava-scene_1308-53082.jpg?w=826&t=st=1710702787~exp=1710703387~hmac=2ec023e7739c2b9fb0399137a5def09487617e37c09a1c6ffb5090337a3b51e9
 
-**ASSETS:**
+### **ASSETS:**
 
 - Unity Asset Store : Sunny land (Sunny Land | 2D Characters | Unity Asset Store)
 https://assetstore.unity.com/packages/2d/characters/sunny-land-103349
+- Items and UI
+https://kenney.nl/assets/pixel-platformer-food-expansion
+https://github.com/Brackeys/Health-Bar/tree/master/Health%20Bar/Assets/Sprites	
+**assets for ai links:**
+- newest knight
+https://assetstore.unity.com/packages/2d/characters/knight-sprite-sheet-free-93897
+- wizard that shoots 
+https://assetstore.unity.com/packages/2d/characters/evil-wizard-168007
+- first ai(its useless)
+https://assetstore.unity.com/packages/2d/characters/medieval-king-pack-159599
+- Background music
+https://www.youtube.com/watch?v=8PkFDquoYVc
 
-**YOUTUBE TUTORIALS:**
+### **YOUTUBE TUTORIALS CONSULTED:**
 
 - **The Unity tutorial for completely beginners**
 https://www.youtube.com/watch?v=XtQMytORBmM
@@ -51,16 +63,9 @@ https://www.youtube.com/watch?v=wagz-q1D4nA
 - **(Unity Tutorial - How to Make Moving Platform in Unity | Unity Tutorial for Beginners):**
 https://youtu.be/vua2a_Z3zlY?si=vsOQzbBtWyNbK0ZT https://youtu.be/vzZSjJOakDM?si=lnf2kaAoP5UCl0zk
 
-**assets for ai links:**
-- newest knight
-https://assetstore.unity.com/packages/2d/characters/knight-sprite-sheet-free-93897
-- wizard that shoots 
-https://assetstore.unity.com/packages/2d/characters/evil-wizard-168007
-- first ai(its useless)
-https://assetstore.unity.com/packages/2d/characters/medieval-king-pack-159599
-
 **AI videos**
--for the newest ai 
+
+- for the newest ai 
 https://youtu.be/d002CljR-KU?si=_I_dqnOo8z-8sLop
 - for the shooting ai
 https://youtu.be/--u20SaCCow?si=R-yZo7mXWQ9G2vcL
@@ -69,14 +74,10 @@ https://youtu.be/jvtFUfJ6CP8?si=VOIyCXi12vBz9OVY
 https://youtu.be/QxKcO0q7GR4?si=PyX9XF_86OtndcbI
 
 
-### References for rest of the Ui/Coding/Audio part
+**Ui/Coding/Audio**
 
 
-- https://www.youtube.com/watch?v=0wKB_rxtqh4&list=PLSR2vNOypvs6eIxvTu-rYjw2Eyw57nZrU
-
- - https://www.youtube.com/watch?v=N8whM1GjH4w 
-- https://kenney.nl/assets/pixel-platformer-food-expansion 
-
-- https://github.com/Brackeys/Health-Bar/tree/master/Health%20Bar/Assets/Sprites	
-
-- https://www.youtube.com/watch?v=8PkFDquoYVc
+- Let's Make An Inventory System In Unity! (Series Intro)
+https://www.youtube.com/watch?v=0wKB_rxtqh4&list=PLSR2vNOypvs6eIxvTu-rYjw2Eyw57nZrU
+- How to Add MUSIC and SOUND EFFECTS to a Game in Unity | Unity 2D Platformer Tutorial #16
+https://www.youtube.com/watch?v=N8whM1GjH4w 
