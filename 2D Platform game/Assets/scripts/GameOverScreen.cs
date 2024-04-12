@@ -10,17 +10,11 @@ public class GameOverScreen : MonoBehaviour
 
     public void restartbutton()
     {
-        Debug.Log("boton picado");
-        //GameOverScreen.FindAnyObjectByType<GameOverScreen>().gameObject.SetActive(false);
         SceneManager.LoadScene("Intro_level");
-       
     }
 
     public void headToMainMenu()
     {
-        Debug.Log("segundo boton");
-        //GameOverScreen.FindAnyObjectByType<GameOverScreen>().gameObject.SetActive(false);
         SceneManager.LoadScene("menu");
-        
     }
 }

@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 using Unity.VisualScripting;
 
 //using Unity.PlasticSCM.Editor.WebApi;
@@ -38,7 +39,7 @@ public class playerMovement : MonoBehaviour
             jump = true;animator.SetBool("jump",jump);
         }
 
-        if (Input.GetButtonDown("Crouch"))
+        if (Input.GetButtonDown("Crouch") && GameObject.FindGameObjectsWithTag("ladder").Where(x => x.GetComponent<climb_ladder>().ladder).Count()==0)
         {
             crouch = true;
             

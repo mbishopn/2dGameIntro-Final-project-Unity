@@ -61,6 +61,17 @@ public class CharacterController2D : MonoBehaviour
 		}
 	}
 
+	// this function changes transform.position to take character to remote position when teleporting
+	public void teleport(Vector2 newPos)
+	{
+		transform.position = newPos;
+	}
+	// this function moves character up when climbing is detected
+	public void climb(float move)
+	{
+        Vector3 targetVelocity = new Vector2( m_Rigidbody2D.velocity.x,move * 10f);
+        m_Rigidbody2D.velocity = Vector3.SmoothDamp(m_Rigidbody2D.velocity, targetVelocity, ref m_Velocity, m_MovementSmoothing);
+    }
 
 	public void Move(float move, bool crouch, bool jump)
 	{
@@ -69,7 +80,7 @@ public class CharacterController2D : MonoBehaviour
 		{
 			// If the character has a ceiling preventing them from standing up, keep them crouching
             if (Physics2D.OverlapCircle(m_CeilingCheck.position, k_CeilingRadius, m_WhatIsGround))
-            {
+            {  
                 crouch = true;
             }
 	

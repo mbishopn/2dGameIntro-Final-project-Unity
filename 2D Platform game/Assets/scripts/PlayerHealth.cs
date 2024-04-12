@@ -10,6 +10,7 @@ public class PlayerHealth : MonoBehaviour
     public float health;
     public float maxHealth;
     public Image healthBar;
+    public GameObject player;
     //public GameObject gameOverScreen;
     void Start()
     {
@@ -22,4 +23,11 @@ public class PlayerHealth : MonoBehaviour
         healthBar.fillAmount =Mathf.Clamp(health / maxHealth, 0,1);
     }
 
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(collision.CompareTag("Enemy"))
+        {
+            health -= 35;
+        }
+    }
 }

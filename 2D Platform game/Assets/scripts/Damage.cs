@@ -5,15 +5,15 @@ using UnityEngine;
 public class Damage : MonoBehaviour
 {
     // Start is called before the first frame update
-    private GameObject player;
-    private PlayerHealth phealth;
+    public Collider2D player;
+    public PlayerHealth phealth;
     public float damage;
-    private GameObject gameOverScreen;
+    public GameObject gameOverScreen;
     void Start()
     {
-        player = GameObject.FindGameObjectWithTag("Player");
-        phealth=player.GetComponent<PlayerHealth>();
-        gameOverScreen = GameObject.FindGameObjectWithTag("gameover");
+        //player = GameObject.FindGameObjectWithTag("Player");
+        //phealth =player.GetComponent<PlayerHealth>();
+        //gameOverScreen = GameObject.FindGameObjectWithTag("gameover");
     }
 
     // Update is called once per frame
@@ -26,7 +26,7 @@ public class Damage : MonoBehaviour
     private void OnCollisionEnter2D(Collision2D collision)
     {
         
-        if (collision.collider==player.GetComponent<Collider2D>())
+        if (collision.collider==player)
         {
             //Debug.Log("damaging player");
             phealth.health -= damage;
