@@ -12,12 +12,15 @@ It ends when character completes all requried tasks.
 - Run right/left.
 - Jump.
 - Crouch.
+- climbing ladders
 
 **ACTIONS**
 
 - use/interact with static items ( climb ladders, activate buttons, etc )
 - carry/use weapons (gun, knife)
 - interact with moving items (enemies?)
+- open doors
+- use teleporters
 ***
 ## REFERENCES
 
