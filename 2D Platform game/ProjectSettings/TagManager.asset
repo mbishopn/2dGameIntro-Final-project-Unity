@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
+  - gameover
   layers:
   - Default
   - TransparentFX
@@ -11,10 +13,10 @@ TagManager:
   - player
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
+  - world
+  - enemies
+  - bullets
+  - hits
   - 
   - 
   - 
